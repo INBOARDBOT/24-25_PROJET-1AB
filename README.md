@@ -1,7 +1,7 @@
-# MLEM MIAOU JE SUIS LE CHAT
+# RECAP PROJET - (seance 1)
 
-![Image Locale](./images.jpeg)
-
+![Image Locale](./1c1d48df-bb2b-4b2b-a17f-867f8af69538.jpeg)
+![Image Locale](./290b2b35-19e2-4a9d-beeb-5aeede579c5a.jpeg)
 
 
 # MODULE BLUETTOTH UTILISE
