@@ -29,4 +29,10 @@ Le **BM83** est un module Bluetooth développé par **Brookstone**. Il permet un
 
 Le BM83 est idéal pour ceux qui recherchent une solution pratique et efficace pour ajouter la connectivité Bluetooth à leurs appareils.
 
-[Image du BM83](INBOARDBOT/24-25_PROJET-1AB/blob/main/BM83SM1-00AA.jpg)
+[Image du BM83](blob/main/BM83SM1-00AA.jpg)
+
+# (séance 3)
+
+
+
+
