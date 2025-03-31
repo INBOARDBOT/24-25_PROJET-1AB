@@ -1,1 +1,6 @@
-
+SamacSys_Parts:SOT230P700X180-4N : https://www.diodes.com//assets/Datasheets/AZ1117C.pdf
+SamacSys_Parts:450405020524 : https://www.nidec-components.com/e/catalog/switch/cas.pdf
+LED_SMD:LED_1206_3216Metric : http://www.everlight.com/file/ProductFile/IR26-21C-L110-TR8.pdf
+SamacSys_Parts:430181038816 : https://www.we-online.com/katalog/datasheet/430181038816.pdf
+Connector_USB:USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A : https://www.usb.org/sites/default/files/documents/usb_type-c.zip
+Package_TO_SOT_SMD:SOT-23-6 : https://www.st.com/resource/en/datasheet/usblc6-2.pdf
