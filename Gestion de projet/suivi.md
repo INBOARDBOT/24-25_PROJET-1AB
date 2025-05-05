@@ -1,1 +1,5 @@
-test
+Séance 1 : Assignation des rôles de l’équipe, Création du projet GitHub
+
+Premièrement, ...
+
+Séance 2 : ...
