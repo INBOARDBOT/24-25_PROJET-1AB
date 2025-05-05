@@ -1,30 +1,67 @@
 # 🏍️ Intercom Bluetooth pour Moto
 
-Ce dépôt contient **tout le nécessaire pour reproduire notre projet** d'intercom Bluetooth pour moto. 
+Bienvenue ! Ce dépôt contient **tout le nécessaire pour reproduire notre projet** d'intercom Bluetooth pour moto. Il est conçu pour qu’un futur étudiant puisse comprendre rapidement les choix techniques et les étapes de développement, et **puisse reproduire ou améliorer le projet facilement**.
 
-## Description du Projet
+---
 
-Ce projet est un **système de communication Bluetooth pour moto**, permettant entre autres :
-- Une communication audio entre deux casques
-- La lecture de musique en stéréo
-- L’utilisation d’un microphone numérique
-- Des LED d'indication et interrupteurs pour le contrôle
-- Une compatibilité avec l’alimentation USB-C
+## 🧩 Description du Projet
 
-Afin de réaliser ce projet, nous avons utilisé le BM83, un module Bluetooth qui offre une solution intégrée, fiable, documentée et optimisée pour l’audio Bluetooth, parfaite pour un projet comme un intercom moto où la compacité, l’autonomie, et la qualité audio sont prioritaires. Il gère des microphones numériques I²S, ce qui simplifie l'intégration des micros ICS-43434 sans passer par des convertisseurs analogiques ou des CODECs externes complexes. Le BM83 intègre également son propre DSP audio, donc on n'a pas besoin de gérer des flux audio lourds avec un MCU externe.
-Tout compte fait, l'utilisation de la BM833 permet de réduire la consommation, par rapport à d'autres alternatives (comme l'ESP32 Audio), de ne pas avoir de créer de code pour notre solution et également pour avoir un schéma PCB moins chargé.
+Ce projet est un **système de communication audio sans fil** entre deux casques de moto. Il permet :
+- La **lecture de musique stéréo** en Bluetooth
+- La **communication vocale** entre deux usagers via microphones numériques
+- Le **contrôle du module** via des LEDS et interrupteurs
+- Une **alimentation USB-C standardisée**
+- Une consommation optimisée et un encombrement réduit
 
+---
 
-## 🗂️ Organisation du Dépôt
+## 💡 Démarche de Conception
 
-Voici comment le dépôt est structuré :
- - Hardware : contient le pcb
- - Software : contient le firmware du BM83 (n'ayant pas écrit de nouveau code pour notre projet)
- - Datasheets : contient toute la documentation des composants utilisés
- - Gestion de projet : contient "suivi.md", qui contient toutes les étapes du projet, séance par séance afin de réaliser le cahier des charges
+### Étape 1 – Analyse des besoins
+Nous avons commencé par rédiger un **cahier des charges** (voir `Gestion_de_projet/cahier_des_charges.md`) définissant :
+- La nécessité d’une communication bidirectionnelle claire
+- L’autonomie et la simplicité d’utilisation
+- Une interface Bluetooth stable et performante
+- Un design compact pour intégration dans un casque
 
+### Étape 2 – Recherche de solutions Bluetooth
+Nous avons comparé plusieurs options :
+- ESP32 avec gestion audio
+- Modules CSR (Cambridge Silicon Radio)
+- BM62/BM83 (Microchip)
+- Solutions séparées Bluetooth + CODEC I2S
 
- 
+### Étape 3 – Pourquoi le **BM83** a été retenu
 
+Le **BM83** s’est imposé pour plusieurs raisons :
+- **Solution tout-en-un** : gestion Bluetooth, audio, micro, DSP intégré
+- **Support complet de l’I2S numérique** : idéal pour les microphones ICS-43434
+- **Pas de microcontrôleur externe nécessaire** pour l’audio
+- **Configuration simple via UART**
+- **Module pré-certifié Bluetooth**, prêt à l’emploi
+- **Excellent support documentaire** (Microchip)
 
+**Par comparaison** :
+- L’ESP32 Audio aurait nécessité beaucoup plus de code, d’énergie et de composants externes.
+- Les modules CSR sont complexes à configurer et mal documentés.
+- Les solutions à base de CODEC analogique/I2S séparés complexifient énormément le PCB.
 
+👉 En résumé : le **BM83 est fiable, documenté, compact, et parfaitement adapté à un intercom Bluetooth embarqué**.
+
+---
+
+## 👥 Répartition des rôles dans l’équipe
+
+Le projet a été développé à 5. Voici les rôles de chacun :
+
+| Membre | Rôle |
+|--------|------|
+| **Julien BURGER** | Chef de projet – A TOUT FAIT
+| **Nuvaragan KULASINGAM ** | A TOUT FAIT V2
+| **Ryad KACHA** | Responsable communication – NE SERT à RIEN.
+| **Cyrille VELANGANNI** | Responsable validation – tests électroniques, mesures de tensions, fonctionnement micro/audio |
+| **Yacoub ABDOULKADER MOHAMED** | Responsable coordination 
+| **** | Responsable documentation – `README.md`, `suivi.md`, organisation GitHub, mise à jour continue |
+| **Mohammed-Amine GHERRAS** |
+
+---
