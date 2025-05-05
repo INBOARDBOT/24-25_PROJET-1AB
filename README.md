@@ -54,13 +54,12 @@ Le **BM83** s’est imposé pour plusieurs raisons :
 Le projet a été développé à 5. Voici les rôles de chacun :
 
 | Membre | Rôle |
-|--------|------|
+|--------|------|  
 | **Julien BURGER** | Chef de projet – A TOUT FAIT
-| **Nuvaragan KULASINGAM** | A TOUT FAIT V2
+| **Nuvaragan KULASINGAM** | 
 | **Ryad KACHA** | Responsable communication – NE SERT à RIEN.
 | **Cyrille VELANGANNI** | Responsable validation – tests électroniques, mesures de tensions, fonctionnement micro/audio |
 | **Yacoub ABDOULKADER MOHAMED** | Responsable coordination 
 | **** | Responsable documentation – `README.md`, `suivi.md`, organisation GitHub, mise à jour continue |
-| **Mohammed-Amine GHERRAS** |
 
 ---
