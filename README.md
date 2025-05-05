@@ -1,38 +1,23 @@
-# RECAP PROJET - (séance 1)
-G
-![Image Locale](./1c1d48df-bb2b-4b2b-a17f-867f8af69538.jpg)
-![Image Locale](./290b2b35-19e2-4a9d-beeb-5aeede579c5a.jpg)
+# 🏍️ Intercom Bluetooth pour Moto
 
+## 🔁 Projet Reproductible - Étudiant Suivant
 
-# MODULE BLUETTOTH UTILISE
-[Voir le PDF complet](https://www.micros.com.pl/mediaserver/RF_2611011024000_0002.pdf)
+Bienvenue ! Ce dépôt contient **tout le nécessaire pour reproduire notre projet** d'intercom Bluetooth pour moto. Tu trouveras ici le matériel, le code, la documentation et le suivi. L’objectif est que **tu puisses reprendre, comprendre et refaire ce projet** de A à Z sans difficulté.
 
- Datasheet ESP32-Wroom-32D
- [Voir le PDF complet](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf)
- 
+---
 
- ![Diagram](diagramme_intercom.svg)
+## 🧩 Description du Projet
 
-# (séance 2)
+Ce projet est un **système de communication Bluetooth pour motards**, permettant :
+- Une communication audio entre deux casques
+- La lecture de musique en stéréo
+- L’utilisation d’un microphone numérique
+- Des LED d'indication et interrupteurs pour le contrôle
+- Une compatibilité avec l’alimentation USB-C
 
-Nous avons décidé de remplacer le module ESP32 WROOM 32D par un module bluetooth BM83.
+---
 
-# Présentation du BM83
+## 🗂️ Organisation du Dépôt
 
-Le **BM83** est un module Bluetooth développé par **Brookstone**. Il permet une connexion sans fil pour de nombreux appareils, facilitant l'intégration de technologies modernes dans des dispositifs audio et autres équipements électroniques.
-
-## Caractéristiques principales :
-- **Bluetooth 5.0** : Assure une connexion stable et rapide.
-- **Compatibilité étendue** : Fonctionne avec une large gamme d'appareils.
-- **Transmission de haute qualité** : Son clair et stable.
-- **Faible consommation d'énergie** : Prolonge la durée de vie des batteries.
-
-Le BM83 est idéal pour ceux qui recherchent une solution pratique et efficace pour ajouter la connectivité Bluetooth à leurs appareils.
-
-[Image du BM83](BM83SM1-00AA.jpg)
-
-# (séance 3)
-
-
-
+Voici comment le dépôt est structuré :
 
