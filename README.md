@@ -11,7 +11,8 @@ Ce projet est un **système de communication Bluetooth pour moto**, permettant e
 - Des LED d'indication et interrupteurs pour le contrôle
 - Une compatibilité avec l’alimentation USB-C
 
-Afin de réaliser ce projet, nous avons utilisé le BM83, un module Bluetooth qui offre une solution intégrée, fiable, documentée et optimisée pour l’audio Bluetooth, parfaite pour un projet comme un intercom moto où la compacité, l’autonomie, et la qualité audio sont prioritaires.
+Afin de réaliser ce projet, nous avons utilisé le BM83, un module Bluetooth qui offre une solution intégrée, fiable, documentée et optimisée pour l’audio Bluetooth, parfaite pour un projet comme un intercom moto où la compacité, l’autonomie, et la qualité audio sont prioritaires. Il gère des microphones numériques I²S, ce qui simplifie l'intégration des micros ICS-43434 sans passer par des convertisseurs analogiques ou des CODECs externes complexes. Le BM83 intègre également son propre DSP audio, donc on n'a pas besoin de gérer des flux audio lourds avec un MCU externe.
+Tout compte fait, l'utilisation de la BM833 permet de réduire la consommation, par rapport à d'autres alternatives (comme l'ESP32 Audio), de ne pas avoir de créer de code pour notre solution et également pour avoir un schéma PCB moins chargé.
 
 
 ## 🗂️ Organisation du Dépôt
