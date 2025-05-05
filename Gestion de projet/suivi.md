@@ -1,4 +1,4 @@
-Séance 1 – Organisation initiale du projet - 10/02/2025
+## Séance 1 – Organisation initiale du projet - 10/02/2025
 
     -Première réunion d’équipe pour définir les rôles de chacun (gestion de projet, développement logiciel, électronique, documentation, etc.).
 
