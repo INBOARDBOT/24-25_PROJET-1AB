@@ -1,7 +1,6 @@
 # 🏍️ Intercom Bluetooth pour Moto
 
-Bienvenue ! Ce dépôt contient **tout le nécessaire pour reproduire notre projet** d'intercom Bluetooth pour moto. Il est conçu pour qu’un futur étudiant puisse comprendre rapidement les choix techniques et les étapes de développement, et **puisse reproduire ou améliorer le projet facilement**.
-
+Bienvenue ! Ce dépôt contient **tout le nécessaire pour reproduire notre projet** d'intercom Bluetooth pour moto.
 ---
 
 ## 🧩 Description du Projet
@@ -57,7 +56,7 @@ Le projet a été développé à 5. Voici les rôles de chacun :
 | Membre | Rôle |
 |--------|------|
 | **Julien BURGER** | Chef de projet – A TOUT FAIT
-| **Nuvaragan KULASINGAM ** | A TOUT FAIT V2
+| **Nuvaragan KULASINGAM** | A TOUT FAIT V2
 | **Ryad KACHA** | Responsable communication – NE SERT à RIEN.
 | **Cyrille VELANGANNI** | Responsable validation – tests électroniques, mesures de tensions, fonctionnement micro/audio |
 | **Yacoub ABDOULKADER MOHAMED** | Responsable coordination 
