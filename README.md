@@ -53,9 +53,9 @@ Le projet a été développé à 5. Voici les rôles de chacun :
 
 | Membre | Rôle |
 |--------|------|  
-| **Julien BURGER** | Chef de projet – A TOUT FAIT
+| **Julien BURGER** | Chef de projet – 
 | **Nuvaragan KULASINGAM** | 
-| **Ryad KACHA** | Responsable communication – NE SERT à RIEN.
+| **Ryad KACHA** | Responsable communication – 
 | **Cyrille VELANGANNI** | Responsable validation – tests électroniques, mesures de tensions, fonctionnement micro/audio |
 | **Yacoub ABDOULKADER MOHAMED** | Responsable coordination 
 | **** | Responsable documentation – `README.md`, `suivi.md`, organisation GitHub, mise à jour continue |
