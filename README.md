@@ -26,8 +26,6 @@ Nous avons commencé par rédiger un **cahier des charges** (voir `Gestion_de_pr
 ### Étape 2 – Recherche de solutions Bluetooth
 Nous avons comparé plusieurs options :
 - ESP32 avec gestion audio
-- Modules CSR (Cambridge Silicon Radio)
-- BM62/BM83 (Microchip)
 - Solutions séparées Bluetooth + CODEC I2S
 
 ### Étape 3 – Pourquoi le **BM83** a été retenu
