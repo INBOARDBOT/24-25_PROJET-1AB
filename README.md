@@ -1,9 +1,9 @@
-# 🏍️ Intercom Bluetooth pour Moto
+# Intercom Bluetooth pour Moto
 
 Bienvenue ! Ce dépôt contient **tout le nécessaire pour reproduire notre projet** d'intercom Bluetooth pour moto.
 ---
 
-## 🧩 Description du Projet
+## Description du Projet
 
 Ce projet est un **système de communication audio sans fil** entre deux casques de moto. Il permet :
 - La **lecture de musique stéréo** en Bluetooth
@@ -14,7 +14,7 @@ Ce projet est un **système de communication audio sans fil** entre deux casques
 
 ---
 
-## 💡 Démarche de Conception
+## Démarche de Conception
 
 ### Étape 1 – Analyse des besoins
 Nous avons commencé par rédiger un **cahier des charges** (voir `Gestion_de_projet/cahier_des_charges.md`) définissant :
@@ -41,6 +41,7 @@ Le **BM83** s’est imposé pour plusieurs raisons :
 - L’ESP32 Audio aurait nécessité beaucoup plus de code, d’énergie et de composants externes.
 - Les solutions à base de CODEC analogique/I2S séparés complexifient le PCB.
 
-👉 En résumé : le **BM83 est fiable, documenté, compact, et parfaitement adapté à un intercom Bluetooth embarqué**.
+En résumé : le **BM83 est fiable, documenté, compact, et parfaitement adapté à un intercom Bluetooth embarqué**.
 
+Pour consulter l’organisation du projet et le suivi des séances, voir le dossier Gestion_de_Projet
 ---
