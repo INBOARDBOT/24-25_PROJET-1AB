@@ -35,29 +35,12 @@ Le **BM83** s’est imposé pour plusieurs raisons :
 - **Support complet de l’I2S numérique** : idéal pour les microphones ICS-43434
 - **Pas de microcontrôleur externe nécessaire** pour l’audio
 - **Configuration simple via UART**
-- **Module pré-certifié Bluetooth**, prêt à l’emploi
-- **Excellent support documentaire** (Microchip)
+
 
 **Par comparaison** :
 - L’ESP32 Audio aurait nécessité beaucoup plus de code, d’énergie et de composants externes.
-- Les modules CSR sont complexes à configurer et mal documentés.
-- Les solutions à base de CODEC analogique/I2S séparés complexifient énormément le PCB.
+- Les solutions à base de CODEC analogique/I2S séparés complexifient le PCB.
 
 👉 En résumé : le **BM83 est fiable, documenté, compact, et parfaitement adapté à un intercom Bluetooth embarqué**.
-
----
-
-## 👥 Répartition des rôles dans l’équipe
-
-Le projet a été développé à 5. Voici les rôles de chacun :
-
-| Membre | Rôle |
-|--------|------|  
-| **Julien BURGER** | Chef de projet – 
-| **Nuvaragan KULASINGAM** | 
-| **Ryad KACHA** | Responsable communication – 
-| **Cyrille VELANGANNI** | Responsable validation – tests électroniques, mesures de tensions, fonctionnement micro/audio |
-| **Yacoub ABDOULKADER MOHAMED** | Responsable coordination 
-| **** | Responsable documentation – `README.md`, `suivi.md`, organisation GitHub, mise à jour continue |
 
 ---
