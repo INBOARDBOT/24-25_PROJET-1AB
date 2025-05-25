@@ -17,7 +17,7 @@
 
 ### Séance 3 – Finalisation du schéma électronique et commande des composants - 10/03/2025
 
-    -Fnalisation du PCB sur KiCad : connexions, placement des empreintes et routage du PCB.
+    -Finalisation du PCB sur KiCad : connexions, placement des empreintes et routage du PCB. (voir pcb1.zip)
 
     -Réalisation du routage du circuit imprimé en tenant compte des contraintes d'encombrement, d'alimentation, et d’isolation des signaux audio pour limiter les interférences.
 
@@ -58,3 +58,18 @@
 
     -Soudure des composants manquants
 
+### Séance 8 – Ajout de composants manquants et fonctionnalités - 12/05/2025
+
+    - Reconception du PCB (voir pcb2.zip)
+
+    - Soudage du nouveau PCB
+
+    - Vérification du PCB suite à des erreurs de fonctionnement
+
+### Séance 9 – Ajout de composants manquants et fonctionnalités - 19/05/2025
+
+    - Vérification du PCB suite à des erreurs de fonctionnement
+
+    - Finalisation du projet GitHub
+
+    - Rédaction du compte rendu
