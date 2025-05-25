@@ -17,7 +17,7 @@ Ce projet est un **système de communication audio sans fil** entre deux casques
 ## Démarche de Conception
 
 ### Étape 1 – Analyse des besoins
-Nous avons commencé par rédiger un **cahier des charges** (voir `Gestion_de_projet/cahier_des_charges.md`) définissant :
+Nous avons commencé par rédiger un **cahier des charges** (voir [cahier_des_charges.md](./cahier_des_charges.md)) définissant :
 - La nécessité d’une communication bidirectionnelle claire
 - L’autonomie et la simplicité d’utilisation
 - Une interface Bluetooth stable et performante
