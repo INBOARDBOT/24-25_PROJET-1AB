@@ -51,7 +51,7 @@ Développement d’un mode intercom multi-utilisateur, permettant la communicati
 
 8. Annexes
 
-📄 Cahier des charges [Cahier des charges](./Gestion%20de%20projet/)
-
+Cahier des charges [Cahier des charges](./Gestion%20de%20projet/)
+Liste des composants commandés [Liste des composants commandés](./Gestion%20de%20projet/)
 📄 Liste des composants commandés
 📄 Diagramme de Gantt
