@@ -48,6 +48,6 @@ BM83 Stereo Embedded Demo](https://www.youtube.com/watch?v=FLCs_W62KlI)" , nous 
 
 En résumé : le *BM83 est fiable, documenté, compact, et parfaitement adapté à un intercom Bluetooth embarqué*.
 
-Pour consulter l’organisation du projet et le suivi des séances, voir le dossier [Gestion de projet](./Gestion%20de%20projet/)
+Pour consulter l’organisation du projet et le suivi des séances, voir le dossier [Gestion de projet](./Gestion%20de%20projet/).
 
 ---
