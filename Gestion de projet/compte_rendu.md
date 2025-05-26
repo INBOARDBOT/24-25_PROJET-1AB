@@ -52,7 +52,9 @@ Développement d’un mode intercom multi-utilisateur, permettant la communicati
 8. Annexes
 
 [Cahier des charges](./Gestion%20de%20projet/cahier_des_charges.md)
+
 [Liste des composants commandés](./Gestion%20de%20projet/composants.md)
+
 [Diagramme de Gantt](./Gestion%20de%20projet/Weekly%20Gantt%20Chart%20Intercom%20Bluetooth.png)
 
 
