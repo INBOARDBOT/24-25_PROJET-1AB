@@ -21,8 +21,8 @@ La planification du projet a été organisée selon un diagramme de Gantt détai
 
 Les choix techniques ont été faits dans une optique d'efficacité, de simplicité d'intégration, et de compatibilité :
 Module Bluetooth : utilisation du BM83 pour bénéficier d’une stack Bluetooth préintégrée, évitant le développement logiciel complexe.
-Circuit imprimé (PCB) : conçu avec KiCad, en simple couche, afin de simplifier la fabrication manuelle.
-Connectique : utilisation d’un connecteur USB-C pour la recharge (robustesse, standardisation).
+Circuit imprimé (PCB) : conçu avec KiCad, en 4 couches pour la première version et en 2 couches pour la seconde version, afin de simplifier la fabrication manuelle.
+Connectique : utilisation d’un connecteur USB-C pour la recharge 
 Sortie audio : amplification intégrée et haut-parleurs connectés directement.
 Alimentation : batterie lithium-polymère rechargeable via USB-C.
   
@@ -38,7 +38,6 @@ Flashage initial non réalisé en raison de l’existence d’un firmware préch
 
 Le prototype final est pleinement fonctionnel et respecte le cahier des charges minimal :
 Connexion Bluetooth stable et fiable.
-Qualité audio correcte (sortie mono, intelligibilité satisfaisante).
 Recharge via USB-C opérationnelle.
 Intégration physique réussie dans un casque moto standard.
   
@@ -49,9 +48,10 @@ Passage à une sortie audio stéréo.
 Intégration d’un système de réduction active de bruit (filtrage DSP).
 Ajout d’un afficheur OLED pour afficher l’état de connexion ou le niveau de batterie.
 Développement d’un mode intercom multi-utilisateur, permettant la communication entre plusieurs casques.
-  
+
 8. Annexes
 
-📄 Cahier des charges
+📄 Cahier des charges [Cahier des charges](./Gestion%20de%20projet/)
+
 📄 Liste des composants commandés
 📄 Diagramme de Gantt
