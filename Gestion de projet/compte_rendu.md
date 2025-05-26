@@ -6,8 +6,10 @@ Ce projet a consisté à concevoir un système d’intercommunication Bluetooth 
 
 Nom	                                    Rôle
 Julien Burger , Nuvaragan Kulasingam	- Conception du circuit imprimé (PCB), gestion logistique
+
 Julien Burger , Bilal yousfi -	Intégration hardware, tests fonctionnels
-Ryad Kacha , Cyrille Velanganni , Yacoub Abdoulkader-	Rédaction de la documentation, suivi de l’avancement projet
+
+Ryad Kacha , Cyrille Velanganni , Yacoub Abdoulkader -	Rédaction de la documentation, suivi de l’avancement projet
   
  3. Organisation et Planification
 
