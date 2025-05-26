@@ -39,7 +39,9 @@ Le *BM83* s’est imposé pour plusieurs raisons :
 - *Configuration simple via UART*
 - *Le BM83* embarque une stack Bluetooth 5.0, un contrôleur audio, un DSP intégré, et la gestion micro/haut-parleur
   Après avoir choisi le BM83 , nous avons conceptionné via KiCad une premère version de la carte Intercom , et voici le PCB avec ces valeurs , et si vous désirez reproduire ce projet , vous devriez télécharger en amont les libraires d'empreintes sur le schéma KiCad.
-  Après celà nous avons essayé de flasher la carte pour pouvoir établir une connexion Bluetooth entre un appareil téléphonique et la carte Intercom , cependant rien ne fonctionnait , ce fût un échec dû au mauvais choix des composants .Nous avons analysé d'où provenaient les failles en relisant la datasheet "lien datasheet" en portant une  attention particulière sur les étapes qu'il faut réaliser et les différents composants nécessaires à la conception du PCB.Par la suite nous avonc conçu une seconde carte ,et avec ça nous avons flashé cette dernière grâce à un software fourni par le constructeur du BM83 "[lien vidéo Youtube ](https://www.youtube.com/watch?v=SPlbVVXS5hs)" et "[lien vidéo Youtube ]https://www.youtube.com/watch?v=FLCs_W62KlI" , nous avons suivi les étapes de cette vidéo.
+  Après celà nous avons essayé de flasher la carte pour pouvoir établir une connexion Bluetooth entre un appareil téléphonique et la carte Intercom , cependant rien ne fonctionnait , ce fût un échec dû au mauvais choix des composants .Nous avons analysé d'où provenaient les failles en relisant la datasheet "lien datasheet" en portant une  attention particulière sur les étapes qu'il faut réaliser et les différents composants nécessaires à la conception du PCB.Par la suite nous avonc conçu une seconde carte ,et avec ça nous avons flashé cette dernière grâce à un software fourni par le constructeur du BM83 "[
+BM83 Firmware Update via USB](https://www.youtube.com/watch?v=SPlbVVXS5hs)" et "[
+BM83 Stereo Embedded Demo]https://www.youtube.com/watch?v=FLCs_W62KlI" , nous avons suivi les étapes de cette vidéo.
 
 
 *Par comparaison* :
