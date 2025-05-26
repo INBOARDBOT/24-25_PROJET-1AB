@@ -51,7 +51,10 @@ En résumé : le *BM83 est fiable, documenté, compact, et parfaitement adapté 
 ### Annexes et liens utiles :
 
 Pour consulter l’organisation du projet et le suivi des séances, voir le dossier [Gestion de projet](./Gestion%20de%20projet/).
-Pour consulter le fichier contenant les deux versions de pcb en .zip, voir le dossier [Hardware](./Hardware/)
+
+Pour consulter le dossier contenant les deux versions de pcb en .zip, voir le dossier [Hardware](./Hardware/)
+
+Pour consulter le dossier contenant les datasheets et la partie Software (firmaware), voir le dossier [Datasheets](./Datasheets/) et [Software](./Software).
 
 
 ---
