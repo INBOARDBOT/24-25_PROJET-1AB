@@ -3,7 +3,7 @@
 Bienvenue ! Ce dépôt contient **tout le nécessaire pour reproduire notre projet** d'intercom Bluetooth pour moto.
 ---
 
-![Diagramme de Gantt](./Gestion%20de%20projet/Weekly%20Gantt%20Chart%20Intercom%20Bluetooth.png)
+
 
 ## Description du Projet
 
