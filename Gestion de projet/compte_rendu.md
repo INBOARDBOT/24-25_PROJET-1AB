@@ -14,7 +14,7 @@ Ryad Kacha , Cyrille Velanganni , Yacoub Abdoulkader -	Rédaction de la document
  3. Organisation et Planification
 
 La planification du projet a été organisée selon un diagramme de Gantt détaillé, incluant toutes les phases : étude, conception, prototypage, tests et documentation.
-📄 Voir annexe : diagramme_gantt.pdf
+📄 Voir annexe : ![Diagramme de Gantt](./Gestion%20de%20projet/Weekly%20Gantt%20Chart%20Intercom%20Bluetooth.png)
   
   4. Choix Techniques
 
