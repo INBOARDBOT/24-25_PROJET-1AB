@@ -1,6 +1,7 @@
 # Intercom Bluetooth pour Moto
 
 Bienvenue ! Ce dépôt contient *tout le nécessaire pour reproduire notre projet* d'intercom Bluetooth pour moto.
+Voici la présentation du projet : ""
 ---
 
 ## Description du Projet
