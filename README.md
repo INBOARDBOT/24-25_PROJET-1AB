@@ -5,7 +5,7 @@ Bienvenue ! Ce dépôt contient *tout le nécessaire pour reproduire notre proje
 
 ## Description du Projet
 
-Ce projet est un *système de communication audio sans fil* entre deux casques de moto. Il permet :
+Ce projet est un système de communication audio sans fil entre deux casques de moto. Il permet :
 - La *lecture de musique stéréo* en Bluetooth
 - La *communication vocale* entre deux usagers via microphones numériques
 - Le *contrôle du module* via des LEDS et interrupteurs
